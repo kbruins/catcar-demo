@@ -1,0 +1,22 @@
+{
+    "name": "catcar follow line",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Arexx-CatCar": "github:arexx-engineering/pxt-arexx-catcar#15d32429f4f4b6d55689b7cefed5435f4bcd7415"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
